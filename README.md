@@ -21,4 +21,4 @@ Abra o VSCode e instale as extensões a seguir:
 - C# Dev Kit;
 - C# Extensions.
 
-Depois abra o terminal do VSCode apertando as seguintes teclas CTRL + F5 e digite **dotnet run
+Depois abra o terminal do VSCode apertando as seguintes teclas CTRL + F5 e digite **dotnet run**
