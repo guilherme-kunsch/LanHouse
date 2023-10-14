@@ -12,7 +12,7 @@ Uma Lan House local oferecendo jogos, navegação e impressão busca organizar s
 - [x] Relatório de Estatísticas da Lan House, incluindo faixa etária dos clientes.
 - [x] Calcular e apresentar o faturamento total atual para o proprietário da Lan House.
 
-
+Projeto em si é bem básico, sem algumas validações na hora do usuário digitar o que é solicitado no Console.
 ## Rodando o projeto
 
 Baixe o projeto em sua máquina;
